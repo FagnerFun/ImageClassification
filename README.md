@@ -13,4 +13,4 @@ O arquivo TensorFlowImageClassificationAPI\inputs\inception\tensorflow_inception
 ### Screenshot 
 
 ![SampleImage](https://5.imimg.com/data5/HK/RM/MY-4390697/teddy-bear-500x500.jpg)
-![result](TensorFlowImageClassificationAPI/TensorFlowImageClassificationAPI/Screenshot/Screenshot/result.png)
+![result](ImageClassification/TensorFlowImageClassificationAPI/TensorFlowImageClassificationAPI/Screenshot/result.PNG)
